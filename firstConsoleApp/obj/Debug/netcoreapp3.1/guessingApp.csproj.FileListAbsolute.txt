@@ -1,0 +1,13 @@
+C:\Users\Alex\Desktop\Travercy-ng\firstConsoleApp\firstConsoleApp\bin\Debug\netcoreapp3.1\guessingApp.exe
+C:\Users\Alex\Desktop\Travercy-ng\firstConsoleApp\firstConsoleApp\bin\Debug\netcoreapp3.1\guessingApp.deps.json
+C:\Users\Alex\Desktop\Travercy-ng\firstConsoleApp\firstConsoleApp\bin\Debug\netcoreapp3.1\guessingApp.runtimeconfig.json
+C:\Users\Alex\Desktop\Travercy-ng\firstConsoleApp\firstConsoleApp\bin\Debug\netcoreapp3.1\guessingApp.runtimeconfig.dev.json
+C:\Users\Alex\Desktop\Travercy-ng\firstConsoleApp\firstConsoleApp\bin\Debug\netcoreapp3.1\guessingApp.dll
+C:\Users\Alex\Desktop\Travercy-ng\firstConsoleApp\firstConsoleApp\bin\Debug\netcoreapp3.1\guessingApp.pdb
+C:\Users\Alex\Desktop\Travercy-ng\firstConsoleApp\firstConsoleApp\obj\Debug\netcoreapp3.1\guessingApp.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Travercy-ng\firstConsoleApp\firstConsoleApp\obj\Debug\netcoreapp3.1\guessingApp.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Travercy-ng\firstConsoleApp\firstConsoleApp\obj\Debug\netcoreapp3.1\guessingApp.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Travercy-ng\firstConsoleApp\firstConsoleApp\obj\Debug\netcoreapp3.1\guessingApp.dll
+C:\Users\Alex\Desktop\Travercy-ng\firstConsoleApp\firstConsoleApp\obj\Debug\netcoreapp3.1\guessingApp.pdb
+C:\Users\Alex\Desktop\Travercy-ng\firstConsoleApp\firstConsoleApp\obj\Debug\netcoreapp3.1\guessingApp.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Travercy-ng\firstConsoleApp\firstConsoleApp\obj\Debug\netcoreapp3.1\guessingApp.csprojAssemblyReference.cache
